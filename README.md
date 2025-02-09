@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **rahulkr3960@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c6CezM7gT28z7PkINzaTKlXNziyrGl-b/view?usp=sharing](https://drive.google.com/file/d/1c6CezM7gT28z7PkINzaTKlXNziyrGl-b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
