@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently contributing to **Open Sources**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning and working on **WEB4**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
-
-- 💬 Ask me about **nodejs and expressjs**
 
 - 📫 How to reach me **rahulkr3960@gmail.com**
 
