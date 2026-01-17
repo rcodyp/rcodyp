@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-- 🔭 I’m currently contributing to **Open Sources**
+<h3 align="center">A passionate WEB4 Developer</h3>
 
 - 🌱 I’m currently learning and working on **WEB4**
-
-- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 📫 How to reach me **rahulkr3960@gmail.com**
 
