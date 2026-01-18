@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h1 align="center">Hi, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate WEB4 Developer</h3>
 
 - 🌱 I’m currently learning and working on **WEB4**
