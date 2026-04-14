@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate WEB4 Developer</h3>
 
-- 🌱 I’m currently learning and working on **WEB4**
+- Open Source Contributor
 
 - 📫 How to reach me **rahulkr3960@gmail.com**
 
