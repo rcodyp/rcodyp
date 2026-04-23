@@ -45,6 +45,12 @@
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
 </p>
+
+<p align="center">
+<!-- Web3 + AI stack (custom icons) -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/solana.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
+</p>
 ---
 
 <h3 align="center">GitHub Stats</h3>
